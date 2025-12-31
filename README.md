@@ -33,15 +33,13 @@
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ### 📂 Projects
-- **Portfolio Website** – Built with HTML, CSS, JS, and Python backend.  
-- **Machine Learning Model** – Image classifier using Python & TensorFlow.  
-- **C++ Games** – Console-based mini-games like Tic-Tac-Toe & Snake.  
-- **Automation Scripts** – Python scripts to automate daily tasks.  
+- **smart apratment** – Built with HTML, CSS, JS, and Python backend.  
+- **circket webpage** – Built with HTML, CSS, JS.  
+- **personal chatbot** – genai,gemini version   
 
 *(Add GitHub links to each project for more engagement)*
 
