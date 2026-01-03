@@ -38,7 +38,7 @@
 
 ### 📂 Projects
 - **smart apratment** – Built with HTML, CSS, JS, and Python backend.  
-- **circket webpage** – Built with HTML, CSS, JS.  
+- **circket webpage** – Built with HTML, CSS, JS, and Python backend.    
 - **personal chatbot** – genai,gemini version   
 
 *(Add GitHub links to each project for more engagement)*
