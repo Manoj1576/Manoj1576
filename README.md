@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <p align="center">
 💻 Full Stack Developer | Backend & Python Enthusiast | Lifelong Learner
-</p>
+</p>  
+
 
 ---
 
