@@ -40,9 +40,6 @@
 - **circket webpage** – Built with HTML, CSS, JS, and Python backend.    
 - **personal chatbot** – genai,gemini version   
 
-*(Add GitHub links to each project for more engagement)*
-
----
 
 ### 🚀 Currently Learning
 - Advanced **Django & Flask backend techniques**  
