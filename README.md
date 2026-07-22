@@ -5,7 +5,6 @@
 💻 Full Stack Developer | Backend & Python Enthusiast | Lifelong Learner 
 </p>  
 
-
 ---
 
 ### 🌱 About Me
