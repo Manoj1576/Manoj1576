@@ -4,7 +4,6 @@
 <p align="center">
 💻 Java Full Stack Developer | AI & Python Enthusiast | Lifelong Learner 
 </p>  
-
 ---
 
 ### 🌱 About Me
