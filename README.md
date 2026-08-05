@@ -5,7 +5,6 @@
 💻 Java Full Stack Developer | AI & Python Enthusiast | Lifelong Learner 
 </p>  
 ---
-
 ### 🌱 About Me
 - Passionate about using **technology and coding** to solve real-world problems.  
 - Skilled in **Python, C++, Java, C, HTML, CSS, JS**.  
