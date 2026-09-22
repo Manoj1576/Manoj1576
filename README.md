@@ -38,8 +38,7 @@
 - **personal chatbot** – genai,gemini version   
 
 
-### 🚀 Currently Learning
-- Advanced **Django & Flask backend techniques**  
+### 🚀 Currently Learning 
 - **React.js** for modern frontend applications  
 - **AI & ML Projects** with TensorFlow & PyTorch  
 
